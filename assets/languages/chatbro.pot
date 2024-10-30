@@ -1,0 +1,748 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the chatbro-plugin package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: chatbro-plugin 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-22 17:37+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/server/common/Core/translates.php:3
+#: src/server/common/Core/translates.php:121
+msgid "Everywhere"
+msgstr ""
+
+#: src/server/common/Core/translates.php:4
+#: src/server/common/Core/translates.php:122
+msgid "Front page only"
+msgstr ""
+
+#: src/server/common/Core/translates.php:5
+#: src/server/common/Core/translates.php:123
+msgid "Everywhere except those listed"
+msgstr ""
+
+#: src/server/common/Core/translates.php:6
+#: src/server/common/Core/translates.php:124
+msgid "Only the listed pages"
+msgstr ""
+
+#: src/server/common/Core/translates.php:7
+msgid ""
+"Specify pages by using their paths. Enter one path per line. The '*' "
+"character is a wildcard. Example paths are /2012/10/my-post for a single "
+"post and /2012/* for a group of posts. The path should always start with a "
+"forward slash(/)."
+msgstr ""
+
+#: src/server/common/Core/translates.php:8
+msgid "User profile path"
+msgstr ""
+
+#: src/server/common/Core/translates.php:9
+msgid "Enable shortcodes"
+msgstr ""
+
+#: src/server/common/Core/translates.php:10
+msgid "Invalid chat key"
+msgstr ""
+
+#: src/server/common/Core/translates.php:11
+msgid "ChatBro plugin"
+msgstr ""
+
+#: src/server/common/Core/translates.php:12
+msgid "Yes, delete them all"
+msgstr ""
+
+#: src/server/common/Core/translates.php:13
+msgid "Shortcode copied"
+msgstr ""
+
+#: src/server/common/Core/translates.php:14
+msgid "Chat has been deleted"
+msgstr ""
+
+#: src/server/common/Core/translates.php:15
+msgid "Chat has been updated"
+msgstr ""
+
+#: src/server/common/Core/translates.php:16
+msgid "Are you sure you want to delete the chat?"
+msgstr ""
+
+#: src/server/common/Core/translates.php:17
+msgid "My chats"
+msgstr ""
+
+#: src/server/common/Core/translates.php:18
+msgid "ChatBro profile"
+msgstr ""
+
+#: src/server/common/Core/translates.php:19
+msgid "Prices"
+msgstr ""
+
+#: src/server/common/Core/translates.php:20
+msgid "Plugin Settings"
+msgstr ""
+
+#: src/server/common/Core/translates.php:21
+msgid "Help"
+msgstr ""
+
+#: src/server/common/Core/translates.php:22
+msgid "Create a new chat"
+msgstr ""
+
+#: src/server/common/Core/translates.php:23
+msgid "Please refresh the page to access the profile."
+msgstr ""
+
+#: src/server/common/Core/translates.php:24
+msgid "The service ChatBro is currently unavailable. Please try again later."
+msgstr ""
+
+#: src/server/common/Core/translates.php:25
+msgid ""
+"ChatBro is a web messenger that can be synchronized with Telegram and VK."
+msgstr ""
+
+#: src/server/common/Core/translates.php:26
+msgid "Our site"
+msgstr ""
+
+#: src/server/common/Core/translates.php:27
+msgid "Documentation"
+msgstr ""
+
+#: src/server/common/Core/translates.php:28
+msgid "FAQ"
+msgstr ""
+
+#: src/server/common/Core/translates.php:29
+msgid "Contacts"
+msgstr ""
+
+#: src/server/common/Core/translates.php:30
+msgid "Contact us if you have any questions."
+msgstr ""
+
+#: src/server/common/Core/translates.php:31
+msgid "Loading..."
+msgstr ""
+
+#: src/server/common/Core/translates.php:32
+msgid "You are about to change the Account ID"
+msgstr ""
+
+#: src/server/common/Core/translates.php:33
+msgid ""
+"Please be noticed that your current profile and chats are identified by your "
+"Account ID and if you lose it there will be no way to restore access to you "
+"current profile unless you have registered an account at <a href='https://"
+"www.chatbro.com'>ChatBro.com</a>. Please make sure that you have saved your "
+"old Account ID and fully understand what are you going to do."
+msgstr ""
+
+#: src/server/common/Core/translates.php:34
+msgid "Your old Account ID: <span></span>"
+msgstr ""
+
+#: src/server/common/Core/translates.php:35
+msgid "Cancel"
+msgstr ""
+
+#: src/server/common/Core/translates.php:36
+msgid "Change Account ID"
+msgstr ""
+
+#: src/server/common/Core/translates.php:37
+msgid "Save Changes"
+msgstr ""
+
+#: src/server/common/Core/translates.php:38
+msgid "Edit"
+msgstr ""
+
+#: src/server/common/Core/translates.php:39
+#: src/server/platforms/shopify/backends/admin.php:97
+#: src/server/platforms/wordpress/backends/CbroAdminBackend.php:157
+msgid "Delete"
+msgstr ""
+
+#: src/server/common/Core/translates.php:40
+msgid "Online"
+msgstr ""
+
+#: src/server/common/Core/translates.php:41
+msgid "Approx costs"
+msgstr ""
+
+#: src/server/common/Core/translates.php:42
+msgid "Copy shortcode"
+msgstr ""
+
+#: src/server/common/Core/translates.php:43
+#: src/server/common/Core/translates.php:47
+msgid "Dynamic creation"
+msgstr ""
+
+#: src/server/common/Core/translates.php:44
+#: src/server/platforms/shopify/widget.php:76
+#: src/server/platforms/wordpress/widget.php:76
+msgid "Display chat to guests"
+msgstr ""
+
+#: src/server/common/Core/translates.php:45
+msgid "Show popup chat"
+msgstr ""
+
+#: src/server/common/Core/translates.php:46
+msgid "Save"
+msgstr ""
+
+#: src/server/common/Core/translates.php:48
+msgid "Created at"
+msgstr ""
+
+#: src/server/common/Core/translates.php:49
+msgid "You have no chats yet."
+msgstr ""
+
+#: src/server/common/Core/translates.php:50
+msgid "Something went wrong. Try again later."
+msgstr ""
+
+#: src/server/common/Core/translates.php:51
+msgid "Settings was successfuly saved"
+msgstr ""
+
+#: src/server/common/Core/translates.php:52
+msgid "Bad request"
+msgstr ""
+
+#: src/server/common/Core/translates.php:53
+msgid "The credentials provided is incorrect or invalid."
+msgstr ""
+
+#: src/server/common/Core/translates.php:54
+msgid ""
+"This chat has child chats. By deleting it, you will delete them too. This "
+"action cannot be undone. Are you sure you want to continue?"
+msgstr ""
+
+#: src/server/common/Core/translates.php:55
+#: src/server/platforms/shopify/backends/admin.php:136
+msgid "Shortcodes"
+msgstr ""
+
+#: src/server/common/Core/translates.php:56
+msgid ""
+"Use shortcodes for flexible chat customization. It allows you to insert the "
+"chat on a specific page or even in a specific block on the page. Simply "
+"click the 'Copy Shortcode' button and paste the code into the desired block. "
+"If the button is not present, make sure that the 'Shortcodes enabled' "
+"parameter on the 'Plugin settings' tab is enabled."
+msgstr ""
+
+#: src/server/common/Core/translates.php:57
+msgid ""
+"Such a chat will ignore the 'Show popup chat' parameter and will appear in "
+"any case."
+msgstr ""
+
+#: src/server/common/Core/translates.php:58
+msgid "Shortcode example"
+msgstr ""
+
+#: src/server/common/Core/translates.php:59
+msgid "Supported shortcode attributes"
+msgstr ""
+
+#. Translators: Attribute name "static" and attribut value "true" shouldn't be translated
+#: src/server/common/Core/translates.php:60
+#: src/server/platforms/shopify/backends/admin.php:151
+msgid ""
+"<em><b>id</b></em> &ndash; chat ID. For the main chat, this parameter should "
+"be omitted."
+msgstr ""
+
+#. Translators: Attribute name "static" and attribut value "true" shouldn't be translated
+#: src/server/common/Core/translates.php:61
+#: src/server/platforms/shopify/backends/admin.php:157
+msgid ""
+"<em><b>static</b></em> &ndash; static not movable chat widget (default "
+"<em>true</em>)."
+msgstr ""
+
+#: src/server/common/Core/translates.php:62
+msgid ""
+"<em><b>registered_only</b></em> &ndash; display chat widget to logged in "
+"users only (default <em>false</em>). If this attribute is explicitly set it "
+"precedes the global <em>'Display chat to guests'</em> setting value."
+msgstr ""
+
+#: src/server/common/Core/translates.php:63
+#: src/server/platforms/shopify/backends/admin.php:175
+msgid ""
+"For example you want different chats for different pages of your site. In "
+"case you have video hosting site you can make different chat for each video. "
+"Generate these chats on the fly using the child chats feature."
+msgstr ""
+
+#: src/server/common/Core/translates.php:64
+#: src/server/platforms/shopify/backends/admin.php:176
+msgid ""
+"Child chat is a chat that uses the settings of another (parent) chat. This "
+"is done in order to automate the process of creating your chats."
+msgstr ""
+
+#: src/server/common/Core/translates.php:65
+msgid "How to use it?"
+msgstr ""
+
+#: src/server/common/Core/translates.php:66
+msgid ""
+"Simply click on the 'Dynamic creation' button, and then paste this shortcode "
+"in the right place. When the page loads, the chat will be created "
+"automatically."
+msgstr ""
+
+#: src/server/common/Core/translates.php:67
+#: src/server/platforms/shopify/backends/admin.php:189
+msgid "Child chats are inserted through a special shortcode:"
+msgstr ""
+
+#: src/server/common/Core/translates.php:68
+#: src/server/platforms/shopify/backends/admin.php:197
+msgid ""
+"<em><b>id</b></em> &ndash; ID of parent chat. The chat will copy the "
+"settings of this chat."
+msgstr ""
+
+#: src/server/common/Core/translates.php:69
+#: src/server/platforms/shopify/backends/admin.php:202
+msgid "<em><b>child</b></em> &ndash; tells the system to create a child chat."
+msgstr ""
+
+#: src/server/common/Core/translates.php:70
+#: src/server/platforms/shopify/backends/admin.php:207
+msgid ""
+"<em><b>title</b></em> &ndash; unique title that to be used as chat "
+"identifier. This means that this chat will be associated with this title. 2 "
+"shortcodes with the same title will load 2 identical chats."
+msgstr ""
+
+#: src/server/common/Core/translates.php:71
+#: src/server/platforms/shopify/backends/admin.php:212
+msgid ""
+"<em><b>ext_id</b></em> &ndash; optional additional indentificator. If you "
+"want to have two or more different chats with equal titles add this "
+"parameter. Timestamp is perfect for this."
+msgstr ""
+
+#: src/server/common/Core/translates.php:72
+#: src/server/platforms/shopify/backends/admin.php:218
+msgid "What do child chats inherit?"
+msgstr ""
+
+#: src/server/common/Core/translates.php:73
+#: src/server/platforms/shopify/backends/admin.php:222
+msgid "Visual settings;"
+msgstr ""
+
+#: src/server/common/Core/translates.php:74
+#: src/server/platforms/shopify/backends/admin.php:225
+msgid "Authorization settings;"
+msgstr ""
+
+#: src/server/common/Core/translates.php:75
+msgid "Privacy settings;;"
+msgstr ""
+
+#: src/server/common/Core/translates.php:76
+#: src/server/platforms/shopify/backends/admin.php:231
+msgid "Message filter function;"
+msgstr ""
+
+#: src/server/common/Core/translates.php:77
+#: src/server/platforms/shopify/backends/admin.php:234
+msgid "Tariff, balance."
+msgstr ""
+
+#: src/server/common/Core/translates.php:78
+#: src/server/platforms/shopify/backends/admin.php:241
+msgid "Synchronization with messengers"
+msgstr ""
+
+#: src/server/common/Core/translates.php:79
+#: src/server/platforms/shopify/backends/admin.php:245
+msgid ""
+"Chatbro allows you to synchronize messages between the website and popular "
+"messengers like Telegram or VK."
+msgstr ""
+
+#: src/server/common/Core/translates.php:80
+#: src/server/platforms/shopify/backends/admin.php:248
+msgid "How to sync up Telegram group/supergroup?"
+msgstr ""
+
+#: src/server/common/Core/translates.php:81
+#: src/server/platforms/shopify/backends/admin.php:251
+msgid ""
+"Add @ChatbroBot to telegram group or supergroup. The bot will send a link in "
+"a private message where you can link the web chat and the telegram group/"
+"supergroup. If you don't have contact with our bot until this moment, it "
+"will not be able to send you a private message and will send a link to the "
+"group/supergroup."
+msgstr ""
+
+#: src/server/common/Core/translates.php:82
+#: src/server/platforms/shopify/backends/admin.php:254
+msgid "How to sync up the Telegram channel?"
+msgstr ""
+
+#: src/server/common/Core/translates.php:83
+msgid ""
+"Add @ChatbroBot to the telegram channel as an administrator and type '/sync' "
+"in the channel. The bot will send a sync link to this channel."
+msgstr ""
+
+#: src/server/common/Core/translates.php:84
+msgid "What if I want to use my bot with a specific name?"
+msgstr ""
+
+#: src/server/common/Core/translates.php:85
+msgid "You can easily add your own bot."
+msgstr ""
+
+#: src/server/common/Core/translates.php:86
+msgid "Follow the instructions."
+msgstr ""
+
+#: src/server/common/Core/translates.php:87
+#: src/server/platforms/shopify/backends/admin.php:260
+msgid "How to sync VK conversation with the web chat?"
+msgstr ""
+
+#: src/server/common/Core/translates.php:88
+#: src/server/platforms/shopify/backends/admin.php:264
+msgid "Detail instruction"
+msgstr ""
+
+#: src/server/common/Core/translates.php:89
+#: src/server/platforms/shopify/backends/admin.php:266
+msgid "how to add bot and sync it."
+msgstr ""
+
+#: src/server/common/Core/translates.php:90
+msgid "How to make automatic synchronization?"
+msgstr ""
+
+#: src/server/common/Core/translates.php:91
+#: src/server/platforms/shopify/backends/admin.php:290
+msgid "Message filtering"
+msgstr ""
+
+#: src/server/common/Core/translates.php:92
+#: src/server/platforms/shopify/backends/admin.php:294
+msgid ""
+"You can set up flexible message filtering on our server side or use a send "
+"delay."
+msgstr ""
+
+#: src/server/common/Core/translates.php:93
+#: src/server/platforms/shopify/backends/admin.php:297
+#: src/server/platforms/shopify/backends/admin.php:314
+msgid "How to configure?"
+msgstr ""
+
+#: src/server/common/Core/translates.php:94
+msgid ""
+"Go to the chat editor, then the 'Restrictions' block, and click 'Edit "
+"function'. In the editor that opens, at the bottom right, there will be a "
+"general example button."
+msgstr ""
+
+#: src/server/common/Core/translates.php:95
+#: src/server/platforms/shopify/backends/admin.php:307
+msgid "Spoofing protection"
+msgstr ""
+
+#: src/server/common/Core/translates.php:96
+#: src/server/platforms/shopify/backends/admin.php:311
+msgid ""
+"Spoofing is the situation when a person or a program successfully masks "
+"under another way of falsifying data and receives illegal benefits. For "
+"example, in the chat one person can write under the guise of another. The "
+"spoofing protection excludes such situations. Chatbro allows you to make "
+"sure that the chat is not displayed on other sites besides yours and exclude "
+"sending messages from other resources."
+msgstr ""
+
+#: src/server/common/Core/translates.php:97
+#: src/server/platforms/shopify/backends/admin.php:317
+msgid "This feature is enabled and configured in the plugin by default."
+msgstr ""
+
+#: src/server/common/Core/translates.php:98
+msgid ""
+"Your current profile and chats are associated with your account ID. Please "
+"keep it in a secure place. In the future, when removing the plugin or "
+"transitioning to another CMS, you'll be able to easily restore all your "
+"chats and account."
+msgstr ""
+
+#: src/server/common/Core/translates.php:99
+msgid ""
+"Remember that deleting the plugin will erase information about the account "
+"ID. If you want to temporarily pause the plugin, simply uncheck 'Plugin "
+"enabled.'"
+msgstr ""
+
+#: src/server/common/Core/translates.php:100
+msgid "How to transfer ChatBro account to plugin?"
+msgstr ""
+
+#: src/server/common/Core/translates.php:101
+msgid ""
+"To transfer an existing account from ChatBro to the plugin, you can follow "
+"these steps:"
+msgstr ""
+
+#: src/server/common/Core/translates.php:102
+msgid "1. Merge Chats from Plugin with ChatBro Profile:"
+msgstr ""
+
+#: src/server/common/Core/translates.php:103
+msgid "1. In the plugin, navigate to the 'ChatBro profile' tab."
+msgstr ""
+
+#: src/server/common/Core/translates.php:104
+msgid "2. In the 'Linked accounts' section, click the 'Connect' button."
+msgstr ""
+
+#: src/server/common/Core/translates.php:105
+msgid "3. Authenticate with the required ChatBro account."
+msgstr ""
+
+#: src/server/common/Core/translates.php:106
+msgid ""
+"4. This will merge your accounts, allowing you to administer your chats "
+"through the chatbro.com website account."
+msgstr ""
+
+#: src/server/common/Core/translates.php:107
+msgid "2. Integrate Chatbro.com Account into the Plugin:"
+msgstr ""
+
+#: src/server/common/Core/translates.php:108
+msgid "1. Log in to the chatbro.com website."
+msgstr ""
+
+#: src/server/common/Core/translates.php:109
+msgid "2. Go to your profile settings."
+msgstr ""
+
+#: src/server/common/Core/translates.php:110
+msgid "3. In the 'API' section, click the 'Enable' button."
+msgstr ""
+
+#: src/server/common/Core/translates.php:111
+msgid "4. Copy the generated API keys."
+msgstr ""
+
+#: src/server/common/Core/translates.php:112
+msgid "5. Open the plugin settings and go to the third tab."
+msgstr ""
+
+#: src/server/common/Core/translates.php:113
+msgid "6. Paste the copied API keys into the corresponding fields."
+msgstr ""
+
+#: src/server/common/Core/translates.php:114
+msgid "7. Save the changes."
+msgstr ""
+
+#: src/server/common/Core/translates.php:115
+msgid ""
+"By following these steps, you should be able to transfer your existing "
+"ChatBro account to the plugin and seamlessly manage your chats."
+msgstr ""
+
+#: src/server/common/Core/translates.php:116
+msgid "Invalid show popup chat option value"
+msgstr ""
+
+#: src/server/common/Core/translates.php:117
+msgid "Plugin enabled"
+msgstr ""
+
+#: src/server/common/Core/translates.php:118
+#: src/server/platforms/shopify/backends/admin.php:336
+msgid "Account ID"
+msgstr ""
+
+#: src/server/common/Core/translates.php:119
+msgid "Account secret"
+msgstr ""
+
+#: src/server/common/Core/translates.php:120
+msgid "Shortcodes enabled"
+msgstr ""
+
+#: src/server/common/Core/translates.php:125
+msgid "Disabled"
+msgstr ""
+
+#: src/server/common/Core/translates.php:126
+msgid ""
+"Specify pages by using their paths. The '*' character is a wildcard. Example "
+"paths are /2012/10/my-post for a single post and /2012/* for a group of "
+"posts. Enter one path per line. Example:"
+msgstr ""
+
+#: src/server/common/Core/translates.php:127
+msgid "The session has expired or is invalid. Please refresh the page."
+msgstr ""
+
+#: src/server/common/Utils/CbroUtils.php:83
+msgid "Invalid chat Account ID"
+msgstr ""
+
+#: src/server/common/Utils/CbroUtils.php:99
+msgid "Invalid account secret"
+msgstr ""
+
+#: src/server/platforms/joomla/lib_chatbro/backends/admin.php:50
+msgid "Enable chatbro plugin to add popup chat widget to your site."
+msgstr ""
+
+#: src/server/platforms/joomla/lib_chatbro/backends/admin.php:51
+msgid "Use chatbro module to add chat to desired place on your page."
+msgstr ""
+
+#: src/server/platforms/joomla/lib_chatbro/backends/admin.php:52
+msgid ""
+"Manage chat administrator permissions (ban user, delete messages) on Chatbro "
+"Component options page."
+msgstr ""
+
+#: src/server/platforms/shopify/backends/admin.php:82
+#: src/server/platforms/wordpress/backends/CbroAdminBackend.php:142
+msgid "Permissions"
+msgstr ""
+
+#: src/server/platforms/shopify/backends/admin.php:88
+#: src/server/platforms/wordpress/backends/CbroAdminBackend.php:148
+msgid "Role"
+msgstr ""
+
+#: src/server/platforms/shopify/backends/admin.php:91
+#: src/server/platforms/wordpress/backends/CbroAdminBackend.php:151
+msgid "View"
+msgstr ""
+
+#: src/server/platforms/shopify/backends/admin.php:94
+#: src/server/platforms/wordpress/backends/CbroAdminBackend.php:154
+msgid "Ban"
+msgstr ""
+
+#: src/server/platforms/shopify/backends/admin.php:141
+msgid ""
+"Use shortcode <span>[chatbro]</span> to add the chat widget to the desired "
+"place of your page or post."
+msgstr ""
+
+#: src/server/platforms/shopify/backends/admin.php:145
+msgid "Supported shortcode attributes:"
+msgstr ""
+
+#. Translators: Attribute name "registered_only" and attribut value "false" shouldn't be translated
+#: src/server/platforms/shopify/backends/admin.php:163
+msgid ""
+"<em><b>registered_only</b></em> &ndash; display chat widget to logged in "
+"users only (default <em>false</em>). If this attribute is explicitly set it "
+"precedes the global <em>\"Display chat to guests\"</em> setting value."
+msgstr ""
+
+#: src/server/platforms/shopify/backends/admin.php:171
+msgid "On fly creation"
+msgstr ""
+
+#: src/server/platforms/shopify/backends/admin.php:184
+msgid ""
+"Simply click on the \"On fly creation\" button, and then paste this "
+"shortcode in the right place. When the page loads, the chat will be created "
+"automatically."
+msgstr ""
+
+#: src/server/platforms/shopify/backends/admin.php:228
+msgid "Privacy settings;"
+msgstr ""
+
+#: src/server/platforms/shopify/backends/admin.php:257
+msgid ""
+"Add @ChatbroBot to the telegram channel as an administrator and type \"/sync"
+"\" in the channel. The bot will send a sync link to this channel."
+msgstr ""
+
+#: src/server/platforms/shopify/backends/admin.php:269
+msgid "Can I add my bot to synchronize messages?"
+msgstr ""
+
+#: src/server/platforms/shopify/backends/admin.php:272
+msgid ""
+"Yes you can. It will work just like the our one and you will can to control "
+"over it. To add a bot, follow these steps:"
+msgstr ""
+
+#: src/server/platforms/shopify/backends/admin.php:275
+msgid "1. Go to ChatBro profile tab;"
+msgstr ""
+
+#: src/server/platforms/shopify/backends/admin.php:278
+msgid "2. Click to \"Bots\" tab;"
+msgstr ""
+
+#: src/server/platforms/shopify/backends/admin.php:281
+msgid ""
+"3. Click the \"Add your bot\" button, select the bot type and enter the "
+"authorization data. Then click the \"Add\" button. If the data is correct, "
+"the bot will be added and automatically turned on."
+msgstr ""
+
+#: src/server/platforms/shopify/backends/admin.php:300
+msgid ""
+"Go to the chat editor, then the \"Restrictions\" block, and click \"Edit "
+"function\". In the editor that opens, at the bottom right, there will be a "
+"general example button."
+msgstr ""
+
+#: src/server/platforms/shopify/backends/admin.php:341
+msgid ""
+"Your current profile and chats are identified by your account ID. Please "
+"keep it in a safe place. Subsequently, when deleting the plugin or when "
+"switching to another CMS, you can easily restore all your chats."
+msgstr ""
+
+#: src/server/platforms/shopify/widget.php:25
+#: src/server/platforms/wordpress/widget.php:25
+msgid "ChatBro"
+msgstr ""
+
+#: src/server/platforms/shopify/widget.php:26
+#: src/server/platforms/wordpress/widget.php:26
+msgid "ChatBro group chat"
+msgstr ""
